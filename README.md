@@ -1,5 +1,92 @@
 # PhpStormLiveTemplates
 
+## PHP
+
+### Private Function
+
+* Scope: PHP
+* Abbreviation: prif
+
+```php
+private function $NAME$($PARAMETERS$){
+    $END$
+}
+```
+
+### Private Static Function
+
+* Scope: PHP
+* Abbreviation: prifs
+
+```php
+private static function $NAME$($PARAMETERS$){
+    $END$
+}
+```
+
+### Protected Function
+
+* Scope: PHP
+* Abbreviation: prof
+
+```php
+protected function $NAME$($PARAMETERS$){
+    $END$
+}
+```
+
+### Protected Static Function
+
+* Scope: PHP
+* Abbreviation: profs
+
+```php
+protected static function $NAME$($PARAMETERS$){
+    $END$
+}
+```
+
+### Public Function
+
+* Scope: PHP
+* Abbreviation: pubf
+
+```php
+public function $NAME$($PARAMETERS$){
+    $END$
+}
+```
+
+### Public Static Function
+
+* Scope: PHP
+* Abbreviation: pupfs
+
+```php
+public static function $NAME$($PARAMETERS$){
+    $END$
+}
+```
+
+### Throw New Exception
+
+* Scope: PHP
+* Abbreviation: thr
+
+```php
+throw new $END$
+```
+
+### Todo
+
+* Scope: PHP
+* Abbreviation: todo
+
+```php
+// TODO: $END$
+```
+
+
 ## Exbase
 
 ### Action
