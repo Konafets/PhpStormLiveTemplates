@@ -60,7 +60,7 @@ public function $NAME$($PARAMETERS$){
 ### Public Static Function
 
 * Scope: PHP
-* Abbreviation: pupfs
+* Abbreviation: pubfs
 
 ```php
 public static function $NAME$($PARAMETERS$){
